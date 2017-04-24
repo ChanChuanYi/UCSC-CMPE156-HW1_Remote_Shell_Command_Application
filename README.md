@@ -1,5 +1,7 @@
 # UCSC-CMPE156-Network-Programming HW1 simple remote shell application
-This repository consists of The assignments and final project for course Unix Network Programming.
+
+
+This repository consists of The assignments one for course Unix Network Programming.
 
 Programs were developed in C language in Unix system.
 
